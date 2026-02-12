@@ -1,0 +1,11 @@
+# Virtual Environment
+venv/
+
+# Python cache files
+__pycache__/
+
+#Environment variables
+.env
+
+#Test cases
+test_cases/
